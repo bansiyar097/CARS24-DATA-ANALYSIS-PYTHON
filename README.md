@@ -81,6 +81,20 @@ Any correlation between the "Model Year" and the number of kilometers driven ("D
 
 ## INSIGHTS
 
+**Following data analysis, it was revealed that the top car manufacturers MG, JEEP, and MERCEDES exhibit the highest average prices among manual gear cars. Conversely, in the automatic gear category, Jaguar, MG, and KIA emerge with the highest average prices.**
+
+**While petrol cars remain the most prevalent, diesel cars are steadily increasing in popularity, securing the second position in terms of numbers**
+
+**In the dataset, Mumbai stands out with the highest average car price at Rs 574,183.49, while Hyderabad records the lowest average car price at Rs 445,251.74..**
+
+**Upon correlating the price and number of kilometers driven for cars, it was observed that they exhibit a weak, negative correlation. This suggests that as the number of kilometers driven increases, there is a slight tendency for prices to decrease..**
+
+**Based on the data, Chevrolet boasts the highest average longevity at 12 years, followed closely by Volvo at 11.80 years, Toyota at 11.70 years, BMW at 11.65 years, and Mercedes at 11.55 years, indicating superior build quality across these car brands...**
+
+**The data shows that the average price of cars tends to increase with newer model years. Prices start at around Rs 175,957 in 2007 and peak at approximately Rs 953,372 in 2021. This trend reflects the value added by technological advancements and features in newer models**
+
+
+
 
 
 
