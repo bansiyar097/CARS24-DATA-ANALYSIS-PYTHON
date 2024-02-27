@@ -79,5 +79,8 @@ Any correlation between the "Model Year" and the number of kilometers driven ("D
 
 ![image](https://github.com/bansiyar097/CARS24-DATA-ANALYSIS-PYTHON/assets/155131566/bbc7f84c-f055-4502-9de5-a41533873a8a)
 
+## INSIGHTS
+
+
 
 
